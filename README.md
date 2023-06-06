@@ -4,8 +4,14 @@ We have gone through 6 different game scenarios.
 
 
 namely:
+
+
 1.BOB
+
+
 2.Caonima
+
+
 3.holy shit
 
 
