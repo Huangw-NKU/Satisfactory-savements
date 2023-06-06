@@ -1,5 +1,5 @@
 # Satisfactory-savements
-game savements with friends
+These are Satisfactory game savements with friends.
 We have gone through 6 different game scenarios, while 3 are not available now. 
 
 
