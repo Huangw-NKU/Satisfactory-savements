@@ -18,4 +18,4 @@ namely:
 To facilitate additional game play, the newest saves are uploaded here.
 We are now constructing save "holy shit".
 
-#The savements of this game is located in :C:\Users\\$(UsersName)\AppData\Local\FactoryGame\Saved\SaveGames
+**Notice:The savements of this game are located in: C:\Users\\$(UsersName)\AppData\Local\FactoryGame\Saved\SaveGames
